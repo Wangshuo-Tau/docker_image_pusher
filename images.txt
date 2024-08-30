@@ -5,5 +5,6 @@ nginx
 mysql:8.0.39
 redis:6.2.14
 ubuntu:16.04
+java:8-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
